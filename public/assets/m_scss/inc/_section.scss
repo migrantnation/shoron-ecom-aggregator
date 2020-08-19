@@ -1,0 +1,32 @@
+.m__section {
+  margin-bottom: 10px;
+  padding: 10px;
+}
+.m__section-header {
+  margin-bottom: 10px;
+  &::before,
+  &::after {
+    content: '';
+    display: table;
+    visibility: hidden;
+  }
+  &::after {
+    clear: both;
+  }
+  .m__more-btn {
+    float: right;
+  }
+}
+.m__section-title {
+  font-size: 1.08em;
+  font-weight: 600;
+  margin: 7px 0;
+}
+.m__sec-add-banner {
+  margin-bottom: 10px;
+  text-align: center;
+  img {
+    display: inline-block;
+    width: 100%;
+  }
+}

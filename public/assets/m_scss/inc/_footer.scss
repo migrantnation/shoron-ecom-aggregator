@@ -1,0 +1,13 @@
+.m__footer {
+  border-top: 1px solid $border_color;
+  padding: 10px 0 0;
+  background-color: $default_color_lighter;
+  text-align: center;
+}
+.m__copyright {
+  height: 36px;
+  background-color: $default_color_darker;
+  color: $default_color_lighter;
+  text-align: center;
+  line-height: 36px;
+}

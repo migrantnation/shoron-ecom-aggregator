@@ -1,0 +1,59 @@
+.e__panel-content,
+.e__login-panel {
+  font-size: 1.1em;
+  width: 100%;
+  max-width: 400px;
+  margin: 80px auto 50px;
+  //border-radius: 5px;
+  overflow: hidden;
+  .form-group {
+    margin-bottom: 20px;
+  }
+  .e__panel-header,
+  .e__panel-footer {
+    padding: 15px 30px;
+    text-align: center;
+    .e__site-logo {
+      margin: 0;
+      font-size: 1.6325em;
+      //color: #ffffff;
+    }
+  }
+  .e__panel-header {
+    //background-color: rgba($default_color-darker, .01);
+    background-color: #ffffff;
+    border-bottom: 1px solid $border_color;
+  }
+  .e__panel-body {
+    padding: 25px 30px 15px;
+    background-color: #FFFFFF;
+    //border-radius: 0 0 5px 5px;
+  }
+  .e__title {
+    margin: 0 0 15px;
+  }
+  .form-control {
+    height: 40px;
+    border-radius: 0;
+  }
+  .btn {
+    height: 40px;
+    line-height: 40px;
+    padding: 0 20px;
+    border-radius: 0;
+  }
+}
+.e__panel-content {
+  width: 100%;
+  max-width: 600px;
+  min-height: 200px;
+  .e__panel-header {
+    text-align: left;
+  }
+  .btn {
+    margin: 0 6px 15px;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+  }
+}

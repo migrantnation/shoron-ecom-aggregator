@@ -1,0 +1,21 @@
+.m__widget {
+  margin-bottom: 10px;
+  .m__widget-title {
+    font-size: 1em;
+    margin: 0 0 10px;
+  }
+  .m__widget-list {
+    padding: 0;
+    margin-bottom: 0;
+    li {
+      list-style-type: none;
+      margin-bottom: 5px;
+      &:last-child {
+        margin-bottom: 0;
+      }
+      a {
+        color: $default_color;
+      }
+    }
+  }
+}

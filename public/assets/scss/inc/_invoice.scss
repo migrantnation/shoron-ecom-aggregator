@@ -1,0 +1,9 @@
+.invoice {
+  padding: 15px;
+  border: 1px solid $border_color;
+  .invoice-logo {
+    font-size: 1.8em;
+    font-weight: 700;
+    color: $primary_color;
+  }
+}

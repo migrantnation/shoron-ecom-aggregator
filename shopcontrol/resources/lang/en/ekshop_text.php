@@ -1,0 +1,317 @@
+<?php
+
+
+
+return [
+
+    'update' => 'Update',
+    'name' => 'Name',
+    'address' => 'Address',
+    'mobile-number' => 'Mobile Number',
+    'cancel' => 'Cancel',
+    'select' => 'Select',
+    'search' => 'Search',
+    '&' => 'and',
+    'details' => 'Details',
+    'detail' => 'Description',
+    'action' => 'Action',
+    'view' => 'View',
+    'delete' => 'Delete',
+    'add-new' => 'Add New',
+    'activate' => 'Activate',
+    'deactivate' => 'deactivate',
+
+    //UDC SIDE BAR
+
+    'dashboard' => 'Dashboard',
+    'products' => 'Products',
+    'add_product' => 'Add Product',
+    'product-list' => 'Product List',
+    'sale' => 'Sales',
+    'all-order' => 'All Order',
+    'purchases' => 'Purchases',
+    'wallet' => 'Wallet',
+    'transaction-history' => 'Transaction History',
+    'seller' => 'Seller',
+    'add-seller' => 'Add Seller',
+    'seller-list' => 'Seller List',
+    'report' => 'Reports',
+    '_ecom_-home' => 'Ek-Shop Home',
+    'sales-channel' => 'Sales Channel',
+    'revenue' => 'Revenue',
+    'tax' => 'Tax',
+
+    //UDC DASHBOARD INNER PAGE
+
+    'home' => 'Home',
+    'ek-shop-panel' => 'Ek-Shop Panel',
+    'ek-shop' => 'Ek-Shop',
+    'stat-char-rep' => 'Statistics, Chart and Reports',
+    'feedback' => 'New Feedback',
+    'total-profit' => 'Total Profit',
+    'new-orders' => 'New Orders',
+    'brand-popularity' => 'Brand Popularity',
+    'lakh-tk' => 'Lakh',
+    'tk.' => 'TK ',
+    'weekly-stats' => 'weekly stats',
+    'monthly' => 'monthly stats',
+    'filter-range' => 'Filter Range',
+    'shipment' => 'Shipment',
+    'orders' => 'Orders',
+    'recent-activities' => 'Recent Activities',
+    'regional-stats' => 'Ragional Stats',
+    'general-stats' => 'General Stats',
+    'recent-customers' => 'Recent Customers',
+    'feeds' => 'Feed',
+
+    //UDC ADD/EDIT PRODUCT
+
+    'product' => 'Product',
+    'product-name' => 'Product Name',
+    'description' => 'Description',
+    'product-price' => 'Product Name',
+    'add-image' => 'Add Image',
+    'user-details' => 'User Details',
+    'customer-details' => 'Customer Details',
+    'seller-details' => 'Seller Details',
+    'existing-user' => 'Existing User',
+    'create-product' => 'Create Product',
+    'ep' => 'EP',
+    'ecommerce-partners' => 'E-commerce Partners',
+    'sku' => 'SKU',
+    'permalink' => 'Permalink',
+    'product-url' => 'Product URL',
+    'quantity' => 'Quantity',
+    'edit-product' => 'Edit Product',
+    'edit-seller' => 'Edit Seller',
+    'all-product' => 'All Product',
+    'name' => 'Name ',
+    'address' => 'Address',
+    'mobile-number' => 'Mobile Number',
+    'cancel' => 'Cancel',
+    'create-product' => 'Cancel Product',
+    'select' => 'Select',
+
+
+    //PURCHASE
+
+    'purchase-list' => 'Purchase List',
+    'all-purchase' => 'All Purchase',
+    'total-price' => 'Total Price',
+
+    //ADMIN HEADER
+
+    'my-profile' => 'My Profile',
+    'sign-out' => 'Log Out',
+
+
+
+    //_ecom_ ADMIN PANEL
+    "supper-admin"=> "Super Admin",
+    "resolution-manager"=> "Resolution Manager",
+    "accountant"=> "Accountant",
+    "staff-management"=> "Staff Management",
+    "customer-support"=> "Customer support",
+
+    "udc-management"=> "UDC Management",
+    "all-udc"=> "All UDC",
+    "udc-payments"=> "UDC Payment",
+    "udc-report"=> "UDC Report",
+    "udc-transaction"=> "UDC Transaction",
+
+    "lp-management"=> "LP Management",
+    "all-lp"=> "All LP",
+    "lp-payments"=> "LP Payment",
+    "lp-report"=> "LP Report",
+    "lp-transaction"=> "LP Transaction",
+
+    "ep-management"=> "EP Management",
+    "all-ep"=> "All EP",
+    "ep-payments"=> "EP Payment",
+    "ep-report"=> "EP Report",
+    "ep-transaction"=> "EP Transaction",
+
+    "order"=> "Order",
+    "order-management"=> "Order Management",
+    "_ecom_-order"=> "_ecom_ Orders",
+    "ep-orders"=> "EP Orders",
+
+    "product-management"=> "Product Management",
+    "product-category"=> "Product Category",
+    "product-brands"=> "Product Brands",
+    "transaction"=> "Transaction",
+    "purchase-management"=> "Purchase Management",
+    "activity-management"=> "Activity Management",
+    "reports-management"=> "Reports Management",
+    "settings"=> "Settings",
+
+
+    "import"=>"Import",
+    "export"=>"Export",
+    "search-counts"=>"Showing :from to :to of :total records",
+    "id"=>"ID",
+    "role"=>"Role",
+    "edit"=>"Edit",
+
+    //FORM DATA
+    'first-name' => 'First Name',
+    'last-name' => 'Last Name',
+    'email' => 'Email',
+    'phone' => 'Phone',
+    'password' => 'Password',
+    'confirm-password' => 'Confirm Password',
+    'role' => 'Role',
+    'super-admin' => 'Super Admin',
+    'admin' => 'Admin',
+    'cancel' => 'Cancel',
+    'save' => 'Save',
+    'update' => 'Update',
+
+    //SUPPER ADMIN PAGES
+    "all-super-admin"=> "All Super Admin",
+    "super-admin-list"=> "Super Admin List",
+    'add-new-super-admin' => 'Add New Super Admin',
+    'back-super-admin-list' => 'Back super admin list',
+    'super-admin-details' => 'Super Admin Details',
+    'super-admin-overview' => 'Super Admin Overview',
+
+    //CUSTOMER SUPPORT PAGES
+    'customer-support-list' => 'Customer Support List',
+    'all-customer-support' => 'ALL CUSTOMER SUPPORT',
+    'back-customer-support-list' => 'Back customer support list',
+    'add-new-customer-support' => 'Add New Customer Support',
+    'customer-support-details' => 'Customer Support Details',
+    'customer-support-overview' => 'Customer Support Overview',
+    'customer-support' => 'Customer Support',
+
+    //ACCOUNTS PAGES
+    'accountant-list' => 'Accountant List',
+    'accountant' => 'Accountant',
+    'back-accountant-list' => 'Back Accountant List',
+    'all-accountant' => 'All Accountant',
+    'add-new-accountant' => 'Add New Accountant',
+    'accountant-details' => 'Accountant Details',
+    'accountant-overview' => 'Accountant Overview',
+
+    //RESOLUTION MANAGEMENT PAGES
+    'resolution-manager-list' => 'Resolution Manager List',
+    'resolution-manager' => 'Resolution Manager',
+    'add-new-resolution-manager' => 'Add New Resolution Manager',
+    'back-resolution-manager-list' => 'Back Resolution Manager',
+    'all-resolution-manager' => 'All Resolution Manager',
+    'resolution-manager-detail' => 'Resolution Manager Details',
+    'resolution-manager-overview' => 'Resolution Manager Overview',
+
+    //LP DATA
+    'udc-list' => 'UDC List',
+
+    //UDC DATA
+    "udc-transactions"=> "UDC Transactions",
+
+    //EP DATA
+    'ep-list' => 'EP List',
+    'all-e-commerce-partner(ep)' => 'ALL E-COMMERCE PARTNER(EP)',
+    'ep-name' => 'EP Name',
+    'address' => 'Address',
+    'add-ep' => 'Add EP',
+    'back-ep-list' => 'Back EP list',
+    'ep-url' => 'EP URL',
+    'ep-auth-check-url' => 'EP Auth Check URL',
+    'ep-place-order-api-url' => 'EP Place Order API URL',
+    'add-logo' => 'Add Logo',
+    'contact-number' => 'Contact Number',
+    'contact-person' => 'Contact Person',
+
+    //LP DATA
+    'add-new-lp' => 'Add New LP',
+    "api-secret"=> "Api Secret",
+    "api-key"=> "Api Key",
+    "api-user-id"=> "Api User Id",
+    "api-password"=> "Api password",
+    "api-content-type"=> "Api Content Type",
+    'lp-list' => 'LP List',
+    'edit-lp' => 'Edit LP',
+    'back-lp-list' => 'Back LP list',
+    'all-logistic-partner' => 'ALL LOGISTIC PARTNER(LP)',
+    'filter-by' => 'Filter by',
+    'division' => 'Division',
+    'district' => 'District',
+    'upzilla' => 'Upzilla',
+    'reports' => 'Reports',
+    'sales' => 'Sales',
+    'purchases' => 'Purchases',
+    'customers' => 'Customers',
+    'logistics' => 'Logistics',
+    'ecommerce-partners' => 'eCommerce partners',
+    'finances' => 'Finances',
+    'lp-name' => 'LP Name',
+    'actions' => 'Actions',
+    'search' => 'Search',
+    'lp-short-code' => 'LP Short Code',
+    'lp-commission' => 'LP Commission',
+    'default-charge' => 'Default Charge',
+    'lp-logo' => 'LP Logo',
+    'lp-url' => 'LP URL',
+    'order-status-change-api' => 'Order Status Change API',
+    'place-order-api-url' => 'Place Order Api Url',
+    'packages' => 'Packages',
+    'enter-price' => 'Enter Price',
+    'time-duration' => 'Time Duration',
+    'status' => 'Status',
+    'tracking-info' => 'Tracking Info',
+    'payments' => 'Disburse Payment',
+    'lp-orders' => 'LP Orders',
+    'receive-order' => 'Receive Order',
+    'order-on-fulfilment' => 'Order On Fulfilment',
+    'order-received' => 'Order Received',
+    'view-order-details' => 'View Order Details',
+    'cancel-order' => 'Cancel Order',
+
+    //REPORTS
+    'order-overview' => 'Order Overview',
+    'sales-overview' => 'Sales Overview',
+    'commission-overview' => 'Commission Overview',
+    'kpi-overview' => 'KPI Overview',
+    'udc-overview' => 'UDC Overview',
+
+    'registered-user' => 'Registered Users',
+    'registered-user-with-orders' => 'Registered Users, who order in Ek-Shop',
+    'udc-commission' => 'UDC Commission',
+    'product-received' => 'Product Received',
+    'last-week-udc' => "Last Week's Registered UDC",
+    'last-month-udc' => "Last Month's Registered UDC",
+    'top-ten-udc' => 'Top 10 UDC',
+    'total-commission' => 'Total Commission',
+    'udc-name' => 'UDC Name',
+    'center-id' => 'Center ID',
+    'entrepreneur-id' => 'Entrepreneur ID',
+    'contact' => 'Contact',
+    'total-orders' => 'Total Order',
+    'delivered-order' => 'Delivered Orders',
+    'order-cancel-notification' => 'You can cancel an order within :hours hours after placing in your system.',
+    'track-order' => 'Track Order',
+    'distribute-package' => 'Distribute Package',
+
+
+    
+    //KPI SETTINGS
+    "kpi-setting" => "KPI Setting",
+    "kpi-list" => "KPI List",
+    "all-kpi" => "All KPI",
+    "add-new-kpi " => "Add New KPI",
+    "edit-kpi" => "Edit KPI",
+    "sale-per-day" => "Sale Per Day",
+    "total-transaction-per-day" => "Total Transaction Per Day",
+    "order-per-entrepreneur-per-day" => "Order Per Entrepreneur Per Day",
+    "average-fulfillment-time" => "Average Fulfillment Time",
+    'logistic-overview' => 'Logistic Overview',
+
+
+    // NOTICE
+    "notice" => "বিজ্ঞপ্তি",
+    "notice-list" => "বিজ্ঞপ্তি তালিকা",
+    "all-notice" => "সকল বিজ্ঞপ্তি",
+    "add-new-notice" => "নতুন বিজ্ঞপ্তি যুক্ত করুন",
+    "edit-notice" => "এডিট  বিজ্ঞপ্তি",
+    "notice-message" => "বিজ্ঞপ্তি",
+];

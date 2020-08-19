@@ -1,0 +1,68 @@
+.checkout-wrap {
+  position: relative;
+
+  &::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 50%;
+    bottom: 0;
+    width: 1px;
+    background-color: $border_color;
+  }
+  .part-l,
+  .part-r {
+    float: left;
+    width: 50%;
+  }
+  .part-l {
+    padding-right: 30px;
+  }
+  .part-r {
+    padding-left: 30px;
+  }
+  .client-profile {
+    .client-avatar {
+      float: left;
+      width: 60px;
+      height: 60px;
+      background-repeat: no-repeat;
+      background-position: center center;
+      -webkit-background-size: cover;
+      background-size: cover;
+      margin-right: 15px;
+    }
+    .client-name {
+      font-size: 1em;
+      margin: 0 0 5px;
+    }
+    .client-desc {
+      overflow: hidden;
+      p {
+        margin: 0;
+        &:last-child {
+          margin: 0;
+        }
+      }
+    }
+  }
+
+  .checkout-page-list {
+    padding: 0;
+    margin: 0;
+    li {
+      list-style-type: none;
+      margin-bottom: 8px;
+      &.separator-title {
+        text-transform: uppercase;
+        color: $default_color_light;
+      }
+    }
+  }
+}
+.c-info-block {
+  .c-block-title {
+    font-size: 1.2em;
+    margin: 0 0 15px;
+  }
+}
